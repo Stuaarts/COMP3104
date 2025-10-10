@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/Stuaarts/COMP3104/issues"
   },
-  "homepage": ".",
+  "homepage": "https://stuaarts.github.io/COMP3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
